@@ -1,0 +1,6 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(496,5): warning MSB8004: la directory Output non termina con una barra finale. Nell'istanza della compilazione verrà aggiunta la barra poiché è necessaria per consentire la corretta valutazione della directory Output.
+  dllmain.cpp
+  OpenGLLib.cpp
+  Generazione del codice in corso...
+     Creazione della libreria ..\x64\Debug\net6.0-windows\OpenGLLib.lib e dell'oggetto ..\x64\Debug\net6.0-windows\OpenGLLib.exp
+  OpenGLLib.vcxproj -> D:\_Repo\GitHub\WPFOpenGLTutorial\x64\Debug\net6.0-windows\OpenGLLib.dll

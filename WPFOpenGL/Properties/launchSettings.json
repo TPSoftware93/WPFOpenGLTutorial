@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WPFOpenGL": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

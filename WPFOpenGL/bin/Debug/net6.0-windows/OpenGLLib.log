@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+  OpenGLLib.cpp
+D:\_Repo\Tests\WPF-OpenGL\WPFOpenGL\OpenGLLib\OpenGLLib.cpp(42,38): warning C4312: 'cast di tipo': conversione da 'int' a 'HWND', di dimensioni maggiori
+     Creazione della libreria D:\_Repo\Tests\WPF-OpenGL\WPFOpenGL\x64\Release\OpenGLLib.lib e dell'oggetto D:\_Repo\Tests\WPF-OpenGL\WPFOpenGL\x64\Release\OpenGLLib.exp
+  Generazione codice in corso...
+  0 of 7 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generazione codice terminata
+  OpenGLLib.vcxproj -> D:\_Repo\Tests\WPF-OpenGL\WPFOpenGL\x64\Release\OpenGLLib.dll

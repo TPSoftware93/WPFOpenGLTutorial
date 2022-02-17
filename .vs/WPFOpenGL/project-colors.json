@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c6b93f46-9c18-42d7-9b9e-c5b94c4a2665": {
+      "ProjectGuid": "c6b93f46-9c18-42d7-9b9e-c5b94c4a2665",
+      "DisplayName": "WPFOpenGL",
+      "ColorIndex": 0
+    },
+    "f7d5ad1b-c5ce-4afe-9aa9-b82c7d101972": {
+      "ProjectGuid": "f7d5ad1b-c5ce-4afe-9aa9-b82c7d101972",
+      "DisplayName": "OpenGLLibrary",
+      "ColorIndex": 1
+    },
+    "8cdd1141-b6c8-4205-a327-3c10f2dc22b9": {
+      "ProjectGuid": "8cdd1141-b6c8-4205-a327-3c10f2dc22b9",
+      "DisplayName": "OpenGLLib",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "File esterni",
+      "ColorIndex": -1
+    },
+    "b7f3adac-2731-446d-95fb-d184fd287f1e": {
+      "ProjectGuid": "b7f3adac-2731-446d-95fb-d184fd287f1e",
+      "DisplayName": "UWPOpenGL",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

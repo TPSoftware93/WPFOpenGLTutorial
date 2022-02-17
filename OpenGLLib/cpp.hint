@@ -1,0 +1,2 @@
+#define OPENGLLIB_API __declspec(dllexport)
+#define OPENGLLIB_API __declspec(dllimport)
