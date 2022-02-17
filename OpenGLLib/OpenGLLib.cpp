@@ -28,19 +28,12 @@ int* InitOpenglContext(int* windowHandle)
     };
     HDC  hdc;
     int  iPixelFormat;
-
     hdc = GetDC((HWND)windowHandle);
-    std::cout << "Get DC" << std::endl;
     iPixelFormat = ChoosePixelFormat(hdc, &pfd);
-    std::cout << "Get DC" << std::endl;
     SetPixelFormat(hdc, iPixelFormat, &pfd);
-    std::cout << "Get DC" << std::endl;
     HGLRC glContext = wglCreateContext(hdc);
-    std::cout << "Get DC" << std::endl;
     if (glContext) {
-        std::cout << "Get DC" << std::endl;
         wglMakeCurrent(hdc, glContext);
-        std::cout << "Get DC" << std::endl;
     }
     ReleaseDC((HWND)windowHandle, hdc);
     return (int*)(glContext);
